@@ -1,2 +1,1 @@
-FROM gcr.io/google-samples/gb-frontend:v4
-
+FROM quay.io/coreos/flannel:v0.9.1-amd64
